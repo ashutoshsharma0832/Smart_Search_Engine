@@ -1,0 +1,8 @@
+streamlit
+transformers
+sentence-transformers
+python-dotenv
+pandas
+numpy
+scikit-learn
+torch
